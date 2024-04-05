@@ -43,13 +43,42 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2024.04 ~',
-        activity: '개인 블로그 개발 및 운영',
-        links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
-        },
+        date: '2017.03 ~ 2023.08',
+        activity: '경상대학교 산림환경자원학과 졸업',
+        
+      },
+      // ========================================================
+      // ========================================================
+      {
+        date: '2024.03.04 ~',
+        activity: '한국폴리텍대학 진주캠퍼스 AI소프트웨어과',
+        
+      },
+      // ========================================================
+      // ========================================================
+      {
+        date: '2024.03.20 ~',
+        activity: 'ICT멘토링 한이음공모전 참여',
+        // links: {
+          // post: '/gatsby-starter-zoomkoding-introduction',
+          // github: 'https://github.com/araiuuma',
+          // demo: 'https://www.zoomkoding.com',
+        // },
+        
+      },
+      // ========================================================
+      // ========================================================
+      {
+        date: '2024.04.04 ~',
+        activity: '개인 블로그 운영',
+        
+      },
+      // ========================================================
+      // ========================================================
+      {
+        date: '2024.06.18',
+        activity: '정보처리기사 취득',
+        
       },
     ],
 
@@ -72,15 +101,29 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: '개발 블로그 테마 개발',
+        title: '2024 ICT멘토링 한이음공모전',
         description:
-          '개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.',
-        techStack: ['gatsby', 'react'],
-        thumbnailUrl: 'blog.png',
+          '2024 ICT멘토링 한이음공모전에 전력관리플랫폼을 주제로 참여하게 되었습니다.',
+        techStack: ['Embedded', 'Web-App'],
+        thumbnailUrl: 'ict.png',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: 'https://github.com/araiuuma', // /넣고 md파일 넣을 예정,
+          github: 'https://github.com/araiuuma',
+          demo: 'https://github.com/araiuuma',
+        },
+      },
+      // ========================================================
+      // ========================================================
+      {
+        title: '자녀용 PC 스크린타임 관리 프로그램 : QEAST TO PLAY',
+        description:
+          '파이썬의 Tkinter와 데이터베이스를 연동하여 자녀가 부모의 미션을 수행하고 보상으로 자유롭게 컴퓨터를 할 수 있는 시간을 얻을 수 있는 PC 사용시간 관리 프로그램을 구현하는 미니 프로젝트 입니다.',
+        techStack: ['Python', 'SQLite'],
+        thumbnailUrl: 'tkinter.png',
+        links: {
+          post: 'https://github.com/araiuuma', // /넣고 md파일 넣을 예정,
+          github: 'https://github.com/araiuuma',
+          demo: 'https://github.com/araiuuma',
         },
       },
     ],
