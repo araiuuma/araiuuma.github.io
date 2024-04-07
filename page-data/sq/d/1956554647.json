@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"자바 기초 요점정리","categories":"study"},"fields":{"slug":"/java-01/"}}},{"node":{"frontmatter":{"title":"Gatsby 테마로 GitHub Blog 만들기","categories":"블로그 featured"},"fields":{"slug":"/gatsby-github-blog/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"첫 미니 프로젝트 - Quest to Play","categories":"Homework Project"},"fields":{"slug":"/quest-to-play/"}}},{"node":{"frontmatter":{"title":"자바 기초 요점정리","categories":"study"},"fields":{"slug":"/java-01/"}}}]}}}
