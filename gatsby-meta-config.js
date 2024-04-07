@@ -109,7 +109,6 @@ module.exports = {
         links: {
           post: 'https://github.com/araiuuma', // /넣고 md파일 넣을 예정,
           github: 'https://github.com/araiuuma',
-          demo: 'https://github.com/araiuuma',
         },
       },
       // ========================================================
@@ -121,9 +120,8 @@ module.exports = {
         techStack: ['Python', 'SQLite'],
         thumbnailUrl: 'tkinter.png',
         links: {
-          post: 'https://github.com/araiuuma', // /넣고 md파일 넣을 예정,
-          github: 'https://github.com/araiuuma',
-          demo: 'https://github.com/araiuuma',
+          post: '/quest-to-play',
+          github: 'https://github.com/araiuuma/quest_to_play',
         },
       },
     ],
